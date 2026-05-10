@@ -1,0 +1,34 @@
+body {
+    font-family: "Century Schoolbook";
+    text-align: left;
+    background-color: #F5EBDD;
+    color: #4A3B2A
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav {
+    display: flex;
+    column-gap: 3em;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.box {
+    background: lightblue;
+    padding: 20px;
+}
